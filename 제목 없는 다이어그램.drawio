@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T07:43:48.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.2" etag="H_f-e1MmgLwXYisvJ1Mv" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-01T08:11:13.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="-dvg98X__AtcFIZwF5gR" version="21.6.2" type="github">
   <diagram name="페이지-1" id="J571OEbCFwc51k-4Cu00">
-    <mxGraphModel>
+    <mxGraphModel dx="1900" dy="1234" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7i5C8J33opApPA5719FY-1" value="사용자" style="whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="209" y="-350" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7i5C8J33opApPA5719FY-2" value="반려동물" style="whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="209" y="18" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7i5C8J33opApPA5719FY-3" value="활동량" style="whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-177" y="202" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7i5C8J33opApPA5719FY-4" value="사료" style="whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="209" y="353" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7i5C8J33opApPA5719FY-5" value="자이로 센서" style="whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="595" y="18" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7i5C8J33opApPA5719FY-7" value="권장 섭취량" style="whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-177" y="18" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7i5C8J33opApPA5719FY-8" value="섭취" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="199" y="192" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7i5C8J33opApPA5719FY-11" value="등록" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="199" y="-176" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7i5C8J33opApPA5719FY-14" value="측정" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="392" y="8" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7i5C8J33opApPA5719FY-16" value="측정" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="6" y="192" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7i5C8J33opApPA5719FY-17" value="제공" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="6" y="8" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
